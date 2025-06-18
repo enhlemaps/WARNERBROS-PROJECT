@@ -32,5 +32,5 @@ The goal was to practice structuring a functional entertainment website using fr
 - Understanding how web navigation works
 
 ## Status
-✅ Completed  
-📚 Built as part of a school project in my first year
+--Completed  
+--Built as part of a school project in my first year
