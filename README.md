@@ -32,5 +32,6 @@ The goal was to practice structuring a fully functional entertainment site using
 - Designing everything from scratch — choosing colors, layout, and structure
 - Understanding how web navigation works
 
-## 
+## LIVE LINK TO WEBSITE 
+https://enhlemaps.github.io/WARNERBROS-PROJECT/
 
